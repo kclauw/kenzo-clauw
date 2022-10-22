@@ -24,7 +24,7 @@ social:
     link: https://github.com/kclauw
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/kenzo-clauw-9073bbb2/
 organizations: []
 education:
   courses:
