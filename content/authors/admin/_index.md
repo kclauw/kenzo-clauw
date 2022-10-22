@@ -4,8 +4,8 @@ role: ""
 bio: ""
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Reinforcement Learning
+  - Robotics
 social:
   - icon: envelope
     icon_pack: fas
