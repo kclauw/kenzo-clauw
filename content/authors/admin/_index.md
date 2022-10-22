@@ -21,24 +21,16 @@ social:
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/kclauw
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
-organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+organizations: []
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: MSc in Artificial Intelligence
+      institution: Free University Brussels
+      year: 2018
 superuser: true
 last_name: Bighetti
 highlight_name: true
